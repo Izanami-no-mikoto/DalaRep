@@ -6,12 +6,11 @@
     "InternalName": "SokenLahee",
     "AssemblyVersion": "1.0.0.0",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 3
+    "DalamudApiLevel": 3,
     "DownloadLinkInstall": "https://github.com/DreanorFFXIV/dalamud-SokenLahee/releases/download/1.0/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/DreanorFFXIV/dalamud-SokenLahee/releases/download/1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/DreanorFFXIV/dalamud-SokenLahee/releases/download/1.0/latest.zip",
-    "LastUpdated": "1632000152"
   }
 ]
